@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  backend:
+    container_name: dentonlinebackend
+    image: dentonlinebackend
+    ports:
+      - 5000:80
+    restart:
+      always
+    volumes:
+      - backendwwwroot:/app/wwwroot/
+
+volumes:
+  backendwwwroot:

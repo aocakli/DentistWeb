@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root"
+                xmlns="">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="LoginOperationIsSuccess" xml:space="preserve">
+        <value>Login operation is success.</value>
+    </data>
+    <data name="RefreshTokenIsExpired" xml:space="preserve">
+        <value>Refresh token is expired.</value>
+    </data>
+    <data name="SickPeopleInformationIsCreated" xml:space="preserve">
+        <value>Sick people information is created.</value>
+    </data>
+    <data name="TokensAreGenerated" xml:space="preserve">
+        <value>Tokens are generated.</value>
+    </data>
+    <data name="CommentIsAddedToTreatment" xml:space="preserve">
+        <value>Comment is added to treatment.</value>
+    </data>
+    <data name="CommentIsCreated" xml:space="preserve">
+        <value>Comment is created.</value>
+    </data>
+    <data name="EmailIsAlreadyUsed" xml:space="preserve">
+        <value>Email is already used.</value>
+    </data>
+    <data name="EmailIsNotSended" xml:space="preserve">
+        <value>Email is not sended.</value>
+    </data>
+    <data name="EmailIsSended" xml:space="preserve">
+        <value>Email is sended.</value>
+    </data>
+    <data name="EmailNotificationServiceIsDeactive" xml:space="preserve">
+        <value>Email notification service is deactive.</value>
+    </data>
+    <data name="EmailOrPasswordIncorrect" xml:space="preserve">
+        <value>Email or password incorrect.</value>
+    </data>
+    <data name="FilesAreConvertedToBinary" xml:space="preserve">
+        <value>Files are converted to binary.</value>
+    </data>
+    <data name="RefreshTokenIsGenerated" xml:space="preserve">
+        <value>Refresh token is generated.</value>
+    </data>
+    <data name="TreatmentIsBrought" xml:space="preserve">
+        <value>Treatment is brought.</value>
+    </data>
+    <data name="TreatmentIsCreated" xml:space="preserve">
+        <value>Treatment is created.</value>
+    </data>
+    <data name="TreatmentIsNotFound" xml:space="preserve">
+        <value>Treatment is not found.</value>
+    </data>
+    <data name="TreatmentsAreListed" xml:space="preserve">
+        <value>Treatments are listed.</value>
+    </data>
+    <data name="TreatmentsAreNotFound" xml:space="preserve">
+        <value>Treatments are not found.</value>
+    </data>
+    <data name="TreatmentStatuIsCreated" xml:space="preserve">
+        <value>Treatment statu is created.</value>
+    </data>
+    <data name="UserAccessTokenIsGenerated" xml:space="preserve">
+        <value>User access token is generated.</value>
+    </data>
+    <data name="UserIsBrought" xml:space="preserve">
+        <value>User is brought.</value>
+    </data>
+    <data name="UserIsCreated" xml:space="preserve">
+        <value>User is created.</value>
+    </data>
+    <data name="UserIsNotFound" xml:space="preserve">
+        <value>User is not found.</value>
+    </data>
+    <data name="UserRolesIsUnknown" xml:space="preserve">
+        <value>User role is unknown.</value>
+    </data>
+    <data name="UsersAreListed" xml:space="preserve">
+        <value>Users are listed.</value>
+    </data>
+    <data name="UsersAreNotFound" xml:space="preserve">
+        <value>Users are not found.</value>
+    </data>
+    <data name="ClinicInformationIsCreated" xml:space="preserve">
+        <value>Clinic information is created.</value>
+    </data>
+    <data name="DoctorIsCreated" xml:space="preserve">
+        <value>Doctor is created.</value>
+    </data>
+    <data name="DoctorIsNotFound" xml:space="preserve">
+        <value>Doctor is not found.</value>
+    </data>
+    <data name="GenderShouldEqualMorW" xml:space="preserve">
+        <value>Gender should equal M or W.</value>
+    </data>
+    <data name="TreatmentIsNotCreated" xml:space="preserve">
+        <value>Treatment is not created.</value>
+    </data>
+    <data name="TreatmentStatuIsNotCreated" xml:space="preserve">
+        <value>Treatment statu is not created.</value>
+    </data>
+    <data name="TreatmentStatuIsNotAddedToTreatment" xml:space="preserve">
+        <value>Treatment statu is not added to treatment.</value>
+    </data>
+    <data name="AccessDenied" xml:space="preserve">
+        <value>Access denied.</value>
+    </data>
+    <data name="UserRolesAreNotFound" xml:space="preserve">
+        <value>User roles are not found.</value>
+    </data>
+    <data name="UserRolesAreListed" xml:space="preserve">
+        <value>User roles are listed.</value>
+    </data>
+    <data name="NewTreatmentIsCreatedAsHeader" xml:space="preserve">
+        <value>New Treatment is Created!</value>
+    </data>
+    <data name="SendNotificationWhenCreatedATreatmentTemplate" xml:space="preserve">
+        <value>Treatment is created by {0} at {1} to the system.</value>
+    </data>
+    <data name="EmailsAreNotFound" xml:space="preserve">
+        <value>Emails are not found.</value>
+    </data>
+    <data name="EmailsAreListed" xml:space="preserve">
+        <value>Emails are listed.</value>
+    </data>
+    <data name="LastCommentIsNotFound" xml:space="preserve">
+        <value>Last comment is not found.</value>
+    </data>
+    <data name="LastCommentOwnerRoleIsNotFound" xml:space="preserve">
+        <value>Last comment owner role is not found.</value>
+    </data>
+    <data name="DoctorAddedNewCommentToTreatmentAsHeader" xml:space="preserve">
+        <value>Doctor Added New Comment To Treatment!</value>
+    </data>
+    <data name="DoctorAddedNewCommentToTreatmentTemplate" xml:space="preserve">
+        <value>Doctor {0} added new comment to {1}. treatment.</value>
+    </data>
+    <data name="AdminAddedNewCommentToTreatmentAsHeader" xml:space="preserve">
+        <value>Admin Added New Comment To Treatment!</value>
+    </data>
+    <data name="AdminAddedNewCommentToTreatmentTemplate" xml:space="preserve">
+        <value>Admin {0} added new comment to {1}. treatment.</value>
+    </data>
+    <data name="TreatmentStatuCanNotBeAddedAfterTreatmentStatu" xml:space="preserve">
+        <value>{0} treatment statu can not be added after {1} treatment statu.</value>
+    </data>
+    <data name="IntraOralIsGenerated" xml:space="preserve">
+        <value>Intra oral is generated.</value>
+    </data>
+    <data name="FilesAreGenerated" xml:space="preserve">
+        <value>Files are generated.</value>
+    </data>
+    <data name="CbctVisualFileIsDeleted" xml:space="preserve">
+        <value>Cbct visual file is deleted.</value>
+    </data>
+    <data name="TheTreatmentIsDontHaveCbctVisualFile" xml:space="preserve">
+        <value>The treatment is dont have cbct visual file.</value>
+    </data>
+    <data name="SickPeopleInformationIsManipulated" xml:space="preserve">
+        <value>Sick people information is manipulated.</value>
+    </data>
+    <data name="UpperJawVisualFileIsUpdated" xml:space="preserve">
+        <value>Upper jaw visual file is updated.</value>
+    </data>
+    <data name="LowerJawVisualFileIsUpdated" xml:space="preserve">
+        <value>Lower jaw visual file is updated.</value>
+    </data>
+    <data name="ClosingScanVisualFileIsUpdated" xml:space="preserve">
+        <value>Closing scan visual file is updated.</value>
+    </data>
+    <data name="CbctVisualFileIsUpdated" xml:space="preserve">
+        <value>Cbct visual file is updated.</value>
+    </data>
+    <data name="CbctVisualFileIsCreated" xml:space="preserve">
+        <value>Cbct visual file is created.</value>
+    </data>
+    <data name="CephalometryVisualFileIsUpdated" xml:space="preserve">
+        <value>Cephalometry visual file is updated.</value>
+    </data>
+    <data name="SickPeopleVisualFileIsUpdated" xml:space="preserve">
+        <value>Sick people visual file is updated.</value>
+    </data>
+    <data name="UserVerificationIsGenerated" xml:space="preserve">
+        <value>User verification is generated.</value>
+    </data>
+    <data name="WeSendAVerificationNotificationToYou" xml:space="preserve">
+        <value>We will send a verification notification to you.</value>
+    </data>
+    <data name="ActiveUserVerificationIsNotFound" xml:space="preserve">
+        <value>Active user verification is not found.</value>
+    </data>
+    <data name="EmailActivationEmailIsSendedToUser" xml:space="preserve">
+        <value>Activation email is sended to user.</value>
+    </data>
+    <data name="EmailVerificationHeader" xml:space="preserve">
+        <value>Dent Online Verification!</value>
+    </data>
+    <data name="EmailVerificationTemplate" xml:space="preserve">
+        <value>Hello, you can verify to your account with this link. {0}</value>
+    </data>
+    <data name="WebClientUrlIsNotFound" xml:space="preserve">
+        <value>Web client url is not found.</value>
+    </data>
+    <data name="PleaseVerifyYourAccount" xml:space="preserve">
+        <value>Please verify your account.</value>
+    </data>
+    <data name="ThisCodeIsExpired" xml:space="preserve">
+        <value>This code is expired.</value>
+    </data>
+    <data name="AccountVerificationOperationIsCompleted" xml:space="preserve">
+        <value>Account verification operation is completed.</value>
+    </data>
+    <data name="CodeIsInvalid" xml:space="preserve">
+        <value>Code is invalid.</value>
+    </data>
+    <data name="AdminIsCreated" xml:space="preserve">
+        <value>Admin is created.</value>
+    </data>
+</root>
